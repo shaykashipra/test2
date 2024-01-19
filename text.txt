@@ -3,4 +3,5 @@ Hello ,this is shipra
 3rd line added
 4th line added
 5th line added
-master branch conflict
+it will create conflict to collaborated test2 text.txt file
+
